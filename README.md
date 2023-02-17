@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HarshitSinghall
-- 🌱 I’m currently learning Android develpment
+- 🌱 I’m an Android develpment
 - 💞️ I’m looking to collaborate on some interesting android projects
 - 📫 How to reach me Insta-@harshit__singhal
 <!---
